@@ -1,0 +1,2 @@
+
+write-output "hello world"
